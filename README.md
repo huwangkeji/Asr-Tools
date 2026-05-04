@@ -72,10 +72,6 @@
 
 > Firefox 和 Safari 目前不支持 Web Serial API。
 
-## 项目起源
-
-本项目从「西瓜味ASR终版.exe」（.NET WinForms 应用）逆向提取 AT 指令和功能逻辑，使用 Web 技术重写为现代浏览器应用，无需安装 .NET 运行时，跨平台即开即用。
-
 ## 版权信息
 
 **B站@氢境** | [https://space.bilibili.com/352977016](https://space.bilibili.com/352977016)
